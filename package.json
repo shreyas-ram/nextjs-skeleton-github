@@ -11,7 +11,10 @@
   "dependencies": {
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.0.4"
+    "next": "14.0.4",
+    "@octokit/webhooks": "^12.0.11",
+    "@octokit/auth-app": "^6.0.3",
+    "@octokit/rest": "20.0.2"
   },
   "devDependencies": {
     "typescript": "^5",
